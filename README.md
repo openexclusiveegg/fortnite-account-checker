@@ -16,7 +16,7 @@
 
 # Installation:
 ```
-pip install colorama
+pip install colorama 
 pip install requests
 pip install pandas
 pip install ctypes
