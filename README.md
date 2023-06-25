@@ -13,7 +13,7 @@
 ![Screenshot (13)](https://user-images.githubusercontent.com/90693180/180263866-087ebd50-2b19-4ca5-b842-1d7e5c3fbfd3.png)
 ## Option 4 FULL CAPTURER GUI"
 ![image](https://user-images.githubusercontent.com/90693180/180521708-9a545009-761d-4bc6-af99-e6cb3b2dea9d.png)
-
+ 
 # Installation:
 ```
 pip install colorama 
